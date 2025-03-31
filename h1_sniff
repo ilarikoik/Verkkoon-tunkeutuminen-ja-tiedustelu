@@ -4,5 +4,7 @@
 a) onnistui
 b) sudo ip link set enp0s3 down / sudo ip link set enp0s3 up
 c) tehty
-d) 
+d) <img src="wireshark.png" alt="Wireshark-kaappaus" width="500">
+![Wireshark-kaappaus](wireshark.png)
+
 
