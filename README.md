@@ -20,6 +20,5 @@ f) RealtekU
 h)  google.com - terokarvinen.com - gc.zgo.at - terokarvinen.goatcounter.com  
 i)  käytin d kohdassa otettua kuvakaappausta  
 verkkokorttina toimii PcsCompu_e6  
-DNS protokolla 
-wikipedia.org ja reddit.com  
+DNS protokolla ja DNS yhdistänyt sivuille wikipedia.org ja reddit.com  
 
